@@ -9,6 +9,7 @@ def balik():
 os.system("clear")
 print ("\tSPAM โทร")
 print ("      โค๊ด โดย: \033[1;96mFahmiApz\033[1;97m")
+print ("     แปล โดย: \033[1;93mMomentAg\033[1;93m")
 print ("\033[1;97m*     ต้นฉบับGithub:\033[1;92m github.com/BangDanz\033[1;97m      *")
 print()
 print ("\033[90m>\033[1;97m ตัวอย่าง: \033[1;92m+66857×××××××××")
